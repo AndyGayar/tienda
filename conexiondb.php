@@ -1,4 +1,5 @@
 <?php
+include("config.php");
 $host = HOST; // o la IP de tu servidor MySQL
 $user = DB_USER;
 $password = DB_PASS;
